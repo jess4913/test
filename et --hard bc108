@@ -1,0 +1,13 @@
+[1mdiff --git a/test.py b/test.py[m
+[1mindex c37ebb4..801dce6 100644[m
+[1m--- a/test.py[m
+[1m+++ b/test.py[m
+[36m@@ -1,2 +1 @@[m
+[31m-print('Hi')[m
+[31m-a = 1 [m
+\ No newline at end of file[m
+[32m+[m[32mprint('Hi')[m
+\ No newline at end of file[m
+[1mdiff --git a/text2.py b/text2.py[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
